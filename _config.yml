@@ -4,7 +4,7 @@
 
 title:  # the website title (if blank, full name will be used instead)
 first_name: Aloys
-middle_name: 
+#middle_name: 
 last_name: Reant
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -196,6 +196,8 @@ exclude:
   - _pages/books.md
   - _pages/profiles.md
   - _pages/teaching.md
+  - _pages/dropdown.md
+  - _pages/publications.md
 keep_files:
   - CNAME
   - .nojekyll
