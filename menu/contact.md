@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+For now, if you are having any questions or suggestions, feel free to leave comments on my posts.
+
+I will later create an e-mail address for this blog.
